@@ -5,3 +5,4 @@ export default function ForgotPassword() {
     <div>Forgot Password</div>
   )
 }
+
